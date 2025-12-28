@@ -115,5 +115,18 @@ ai
 b站
 陈睿
 
+go
+python
+rust
+java
+
+mysql
+kafka
+rabbit
+
+面试
+开发
+
+
 [GLOBAL_FILTER]
 明星
